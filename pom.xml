@@ -81,7 +81,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Smart-Contact-Manager</finalName>
+		<finalName>smart-contact-manager</finalName>
 	</build>
 
 </project>
