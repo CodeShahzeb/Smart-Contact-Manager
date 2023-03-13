@@ -1,4 +1,4 @@
 FROM openjdk:17
 EXPOSE 8080
-ADD target/Smart-Contact-Manager.jar Smart-Contact-Manager.jar
-ENTRYPOINT ["java","-jar","/Smart-Contact-Manager.jar"]
+ADD target/smart-contact-manager.jar smart-contact-manager.jar
+ENTRYPOINT ["java","-jar","/smart-contact-manager.jar"]
